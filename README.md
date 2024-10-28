@@ -39,6 +39,9 @@ https://drive.google.com/drive/folders/1kiMREC8LdFsgJt6VpJk6cVvuU-LwQhH8?usp=dri
 
 
 ### 结果生成
+阅读json文件，总计1000条问题，需要依次读取生成答案后，并将id, 问题与答案组合起来保存为一个jsonl文件。
+
+使用OpenAI提供的API，并使用A100进行推理，但处理速度仍然很慢。(解决办法？）
 
 
 
