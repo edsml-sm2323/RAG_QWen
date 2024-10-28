@@ -17,6 +17,9 @@
 
 问题四：模块化，方便后续修改
 
+pdf2txt文件夹中提供了pdfplumber的使用过程，以及使用LLM分析并抓取文件中公司名称并且修改文件名的过程。
+处理过后的文件可以从下方链接下载。
+https://drive.google.com/drive/folders/1kiMREC8LdFsgJt6VpJk6cVvuU-LwQhH8?usp=drive_link
 
 ### 文档分块
 
